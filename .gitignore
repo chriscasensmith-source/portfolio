@@ -1,0 +1,9 @@
+# Local-only files: original uploads and tooling
+.DS_Store
+.claude/
+images/Line Fix *.png
+images/Maintenance Skills Assessment.png
+images/Training Command Center.png
+images/Tribe Knowledge Capture.png
+images/website*.png
+images/panel-wide.jpg
