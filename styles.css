@@ -71,6 +71,9 @@ dt { font-size: 0.74rem; font-weight: 700; letter-spacing: 0.09em; text-transfor
 .dark .go:hover { border-color: var(--signal); }
 .go:hover .ico { transform: translate(3px, -3px); }
 
+.go--big { min-height: 60px; padding: 0 26px; gap: 0.6em; font-size: 1.3rem; border: 2px solid currentColor; }
+.voice-demo .go--big { margin-top: 8px; }
+
 /* HEADER */
 .top {
   position: sticky; top: 0; z-index: 40;
